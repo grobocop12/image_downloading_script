@@ -1,2 +1,2 @@
 # Image downloading script
-Python script for downloading images from webpage
+Python script for downloading images from webpages.
