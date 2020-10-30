@@ -3,7 +3,7 @@ Python script for downloading images from webpages.
 
 ## How to use it?
 ### Example:
-`python3 image_downloading_script -u http://example.com -d path/to/destination`
+`python3 image_downloading_script.py -u http://example.com -d path/to/destination`
 
 ### Options:
 * -h \[--help\] - prints help with example usage,
